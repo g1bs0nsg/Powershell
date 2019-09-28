@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But descend into folders
+!*/
+
+# Files to include
+!*.ps1
+!.gitignore
+!*.md
